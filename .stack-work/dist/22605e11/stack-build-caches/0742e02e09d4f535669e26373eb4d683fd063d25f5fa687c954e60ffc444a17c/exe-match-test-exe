@@ -1,0 +1,14 @@
+? C:\Users\Lenovo\AppData\Local\Programs\stack\x86_64-windows\ghc-9.4.7\lib\x86_64-windows-ghc-9.4.7\rts-1.0.2\include\ghcversion.h
+: hash: ee548d48ca5c94d7c7fab127ec07be47b01afa24d6495358aa9ff6cfc8541c81
+C:\Users\Lenovo\match-test\.stack-work\dist\22605e11\build\match-test-exe\autogen\Paths_match_test.hs:
+  hash: b67e8007b66deb79e6b64bffdbb05c9db507ed4bee5873936d289dda1942a6c1
+C:\Users\Lenovo\match-test\.stack-work\dist\22605e11\build\match-test-exe\autogen\cabal_macros.h:
+  hash: f26864730dbb40412dd2784fd01aeaba0dd16f6802a6a870f71e3d2e1c120c34
+C:\Users\Lenovo\match-test\README.md:
+  hash: 688419fff28cf4b66bae969dd46cdb6c4c7da5358716a5d6ba6d0fc1c65c35ba
+C:\Users\Lenovo\match-test\match-test.cabal:
+  hash: 187cd060f51fa8d5930722d871ffb8de6076d0fa313f80145c3a2c5e2f1dcb16
+C:\Users\Lenovo\match-test\package.yaml:
+  hash: 5f7899dcc70ccb756350b8dd20346ad20dbafa63aa1eaab9a7bf354265e798dc
+C:\Users\Lenovo\match-test\src\RegexMatchTest.hs:
+  hash: 17b99eb05daab82f365288b8169d7161d34ebb8c984887daccf4f42f6ea41254
