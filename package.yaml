@@ -46,5 +46,8 @@ executables:
     - -threaded
     - -rtsopts
     - -with-rtsopts=-N
+    - -Werror
+    - -Wall
+    - -Wmissing-local-signatures
     dependencies:
     - match-test
